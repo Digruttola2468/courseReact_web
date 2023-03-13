@@ -11,4 +11,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 ## Extenciones
 
-Agregamos la extension en Visual Studio code **AYU** y **ES7+ React/Redux/React-Native snipp**
+Agregamos la extension en Visual Studio code **AYU** y **ES7+ React/Redux/React-Native snipp** **TailwindCSS**
